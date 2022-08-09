@@ -33,7 +33,7 @@ python manage.py runserver
 ```
 http://127.0.0.1:8000/admin/
 ```
-5- Login and create a new question
+5- Login and create a new question  
 6- Go to and click on your question:
 ```
 http://127.0.0.1:8000/polls/
