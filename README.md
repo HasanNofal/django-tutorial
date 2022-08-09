@@ -38,5 +38,4 @@ http://127.0.0.1:8000/admin/
 ```
 http://127.0.0.1:8000/polls/
 ```
-7- Make a vote
-8- View the result
+7- Make a vote and view the result
